@@ -13,10 +13,14 @@
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **shivampal8965@gmail.com**
-
 <h3 align="left">Connect with me: +91 9129969806</h3>
-<p align="left">
-</p>
+<br>
+<p><b>What I'm Working On:
+
+- Building a full-stack e-commerce platform using MERN Stack
+- Exploring GraphQL and Next.js for server-side rendering
+- Contributing to open-source projects and writing technical articles
+</b></p>
 
 
 
@@ -27,7 +31,7 @@
 
 
 
-<h3 align="center">Hey 👋 I am Using Tools?</h1>
+<h3 align="center">Hey 👋 buddy , I am Using Tools?</h1>
 
 ###
 
